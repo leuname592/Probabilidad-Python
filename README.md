@@ -33,9 +33,9 @@ desviación por lo que el valor tiene que andar en el rango de -1 a 1, lo cual s
 
 4. Se adjuntan las gráficas pedidas en la pregunta 4:
 Gráfica para la función de densidad marginal de fx:
-![4.2D.fx](4.2D.fx.png)
+![4.2D.fx](4.2D.fx_png)
 Gráfica para la función de densidad marginal de fy:
-![4.2D.fy](4.2D.fy.png)
+![4.2D.fy](4.2D.fy_png)
 Gráfica para la función de densidad conjunta:
 ![4.3D](4.3D.png)
 
